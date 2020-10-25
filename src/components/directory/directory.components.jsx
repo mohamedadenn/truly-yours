@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./directory.style.scss";
 import sectionsData from "./directory.data";
 
+
 //Components
 import MenuItem from "../menu-item/menu-item.component";
 
